@@ -233,7 +233,7 @@ footer{
 	list-style:none;
 	padding-left:0%;
 	text-align: left;
-	height:10px;
+	height:30px;
 	}
 	footer:hover{
 	Color:#f1b2A3;
@@ -241,7 +241,7 @@ footer{
 	footer h5{
 	text-align: left;
 	color: #f1b2A3;
-		cursor: pointer;}
+	cursor: pointer;}
 
 
 /*css animation Keyframe*/
