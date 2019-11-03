@@ -243,6 +243,7 @@ margin-top: 0px;
 }
 
 /*css animation Keyframe*/
+/*css animation Keyframe*/
 @keyframes profile-capa{
 	0%{opacity: 0; transform: translate(0px,20px)}
 	100%{opacity: 1; transform:translate(0px,0px)}
@@ -263,7 +264,7 @@ margin-top: 0px;
 
 /*propriedade para serem utilizadas com telas pequenas, é específico - cel.*//* função*/ 
 
-@media(max-width: 480px){
+@media(max-width: 1000px){
 
 .navigation li{
 display:none;
@@ -283,12 +284,12 @@ display:block;
 height:auto;
 }
 .profile-pic{
-width:100%;
 
+width:100%;
 }
 .profile-pic img{
-margin-top:25%;
-max-width:100%;
+margin-top:24px;
+max-width:80%;
 
 }
 .profile-title {
@@ -339,7 +340,7 @@ margin-right:20px;
 }
 
 .menujs{
-	background-color:#03112D;
+	background-color:black;
 	height:auto;
 
 }
@@ -354,7 +355,7 @@ padding-left:15%;
 .menujs li{
 	display:block;
 	/* linhas - cor e espessura*/
-	border-bottom: solid #144130  1px;
+	border-bottom: solid white 1px;
 	
 }
 
