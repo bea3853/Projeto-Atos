@@ -251,10 +251,12 @@ margin-top: 0px;
 /*propriedade para serem utilizadas com telas pequenas, é específico - cel.*//* função*/ 
 @media(max-width: 1000px) { 
 
+@media(max-width: 1000px){
+
 .navigation li{
 display:none;
-}
 
+}
 .navigation li.threeline-icon{
 display:inline-block;
 }
@@ -268,34 +270,31 @@ color:black;
 display:block;
 height:auto;
 }
-	
 .profile-pic{
+
 width:100%;
 }
-
 .profile-pic img{
 margin-top:24px;
 max-width:80%;
-}
 
+}
 .profile-title {
 text-align:center;
 width:100%;
-}
 
+}
 .profile-title h1{
 margin-top:30px;
 font-size:36px;
 margin-left:20px;
 margin-right:20px;
 }
-	
 .profile-title h2{
-margin-top:20px;
+margin-top:3px;
 margin-left:20px;
 margin-right:20px;
 }
-	
 .main{
 	padding-top:10px;
 	padding-right:5%;
@@ -305,36 +304,32 @@ margin-right:20px;
 	animation-name:conteudo;
 	animation-duration:2s;
 }
-	
 .main {
 	text-align:left;
 	line-height: 30px;
 	
 }
-	
 .caminho li{
 	font-size:12px;
 }
-	
 .cv-pic{
 	float:none;
 	max-width:100%;
 	margin-right:0px;
 
 }
-	
 .miniatura{
 	max-width:100%;
 	background-size:auto 100%;
 }
-	
 .blackbox {
 	opacity: 0.8;
 }
 
 .menujs{
-	background-color:#000000;
+	background-color:black;
 	height:auto;
+
 }
 
 .menujs ul{
@@ -347,8 +342,7 @@ padding-left:15%;
 .menujs li{
 	display:block;
 	/* linhas - cor e espessura*/
-	border-bottom: solid #00FF00 1px;
+	border-bottom: solid white 1px;
 	
 }
-
 }
