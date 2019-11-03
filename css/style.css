@@ -343,7 +343,7 @@ margin-right:20px;
 }
 
 .menujs{
-	background-color:black;
+	background-color:#000000;
 	height:auto;
 
 }
@@ -358,7 +358,7 @@ padding-left:15%;
 .menujs li{
 	display:block;
 	/* linhas - cor e espessura*/
-	border-bottom: solid white 1px;
+	border-bottom: solid #00FF00 1px;
 	
 }
 
@@ -368,7 +368,7 @@ footer{
 	list-style:none;
 	padding-left:0;
 	text-align: left;
-	height:60px;
+	height:80px;
 	}
 	footer:hover{
 	Color:#f1b2A3;
