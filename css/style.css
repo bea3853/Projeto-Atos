@@ -117,24 +117,10 @@ margin-top: -26px;
 
 }
 
-footer{
-	background-color:#03112D;
-	color:white;
-	list-style:none;
-	padding-left:0%;
-	text-align: left;
-	height:10px;
-	}
-	footer:hover{
-	Color:#f1b2A3;
-	}
-	footer h5{
-	text-align: left;
-	color: #f1b2A3;
-cursor: pointer;
+
 	
 		
-	}
+	
 .main{
 	/*
 	padding: 80px 180px 80px 100px(opção para utilizar a propriedade) caso coloque 3 valores ele considera a mesma coisa, 2 valores sera
@@ -359,15 +345,4 @@ padding-left:15%;
 	
 }
 
-footer{
-	background-color:#03112D;
-	color:#00FF00;
-	list-style:none;
-	padding-left:0;
-	text-align: left;
-	height:60px;
-	}
-	footer:hover{
-	Color:#f1b2A3;
-	}
 }
