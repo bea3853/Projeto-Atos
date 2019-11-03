@@ -227,6 +227,22 @@ margin-top: 0px;
 .back-link{
 	color:#000000;
 }
+footer{
+	background-color:#03112D;
+	color:white;
+	list-style:none;
+	padding-left:0%;
+	text-align: left;
+	height:10px;
+	}
+	footer:hover{
+	Color:#f1b2A3;
+	}
+	footer h5{
+	text-align: left;
+	color: #f1b2A3;
+		cursor: pointer;}
+
 
 /*css animation Keyframe*/
 /*css animation Keyframe*/
@@ -345,4 +361,16 @@ padding-left:15%;
 	border-bottom: solid white 1px;
 	
 }
+
+footer{
+	background-color:#03112D;
+	color:#00FF00;
+	list-style:none;
+	padding-left:0;
+	text-align: left;
+	height:60px;
+	}
+	footer:hover{
+	Color:#f1b2A3;
+	}	
 }
