@@ -17,8 +17,8 @@ font-family: 'Montserrat', sans-serif;
 
 
 .navigation{
-	background-color: #03112D;
-	color:#46f748;
+	background-color: #000000;
+	color:#00FF00;
 	height:50px;
 
 	animation-name: navegacao;
@@ -48,7 +48,7 @@ color:white;
 text-decoration: none;
 }
 .navigation a:hover{
-color:#f1b2A3;
+color:#00FF00;
 }
 .navigation li.threeline-icon {
 	display: none;
@@ -228,7 +228,7 @@ margin-top: 0px;
 	color:#000000;
 }
 footer{
-	background-color:#03112D;
+	background-color:#000000;
 	color:white;
 	list-style:none;
 	padding-left:0%;
@@ -240,7 +240,7 @@ footer{
 	}
 	footer h5{
 	text-align: left;
-	color: #f1b2A3;
+	color: #00FF00;
 	cursor: pointer;}
 
 
