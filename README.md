@@ -11,7 +11,6 @@
 https://bea3853.github.io/Projeto-Atos/
   
 
-Projeto Atos é uma aplicação web para conteúdo musical.
 A aplicação consiste  em um site estático, que oferece conteúdo sobre aprendizado musical. 
 
   
