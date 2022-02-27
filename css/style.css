@@ -227,9 +227,8 @@ margin-top: 0px;
 .back-link{
 	color:#000000;
 }
-footer{
-	background-color:#000000;
-	color:white;
+
+	color:#000;
 	list-style:none;
 	padding-left:0%;
 	text-align: left;
@@ -239,11 +238,11 @@ footer{
 	width:100%;
 	}
 	footer:hover{
-	Color:#f1b2A3;
+	Color:#0af00a;
 	}
 	footer h5{
 	text-align: left;
-	color: #00FF00;
+	color: #0af00a;
 	cursor: pointer;}
 
 
