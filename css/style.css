@@ -234,6 +234,9 @@ footer{
 	padding-left:0%;
 	text-align: left;
 	height:50px;
+	position:absolute;
+	bottom:0;
+	width:100%;
 	}
 	footer:hover{
 	Color:#f1b2A3;
